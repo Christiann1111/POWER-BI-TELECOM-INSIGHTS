@@ -28,3 +28,6 @@ The analysis is based on AtliQo’s internal data, comparing specific KPIs for t
 ## 🚀 Project Goals
 
 This project aims to help AtliQo management understand the impact of the 5G launch on their user base and revenue, and to suggest ways to optimize internet plans to regain active users and boost growth.
+
+
+//Telecom Insights is the dashboard
