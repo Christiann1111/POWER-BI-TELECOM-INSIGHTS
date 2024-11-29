@@ -9,8 +9,7 @@ The primary goals of this analysis are to:
 - Provide actionable insights to help recover active user rates and improve key metrics
 - Explore optimization opportunities for AtliQo's internet plans to attract more active users
 
-**Analyst:** Peter Pandey (Junior Data Analyst)  
-**Date:** November 2024
+
 
 ## 🔍 Data Sources and Methodology
 
